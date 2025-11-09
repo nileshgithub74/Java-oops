@@ -1,0 +1,49 @@
+1. Class : A class is a user-defined  blueprint or prototype from which objects are created. It represents the set of properties or methods that are common to all obejects of one type.
+
+
+2. Objects : 
+            it is an instance of the class.
+            its  a real- world entity that has state and behavior.
+
+
+in real life  , when   we have to construct the building , for that we first of all,  we draw the prototype of buildings on the papers --- this is class,
+but in real life -- when  we built that actula house that is the  objects.
+
+
+There are 4 types of Oops : 
+  1. Encapsulation 
+  2. Abstraction 
+  3. Inheritance
+  4. Polymorphism
+
+
+
+
+1. Encapsulation : 
+                  
+                 Encapsulation is method to wrape the  variables and methods into single entity and restrict to direct access to  using them  keyboard priate.
+
+
+
+    encapsulation : data hiding + controlled access
+
+ Real Life example :  like medical medicine (capsule)
+When you have a bank account,
+you can’t directly take money from the bank’s system —
+you must use official ways like an ATM, UPI, or bank teller.
+
+The balance (data) is kept private,
+and you can only access or change it through specific actions (methods).
+
+
+
+
+2. Inheritance : It is the property of oops in which the  subclass aquire the property and method of parent class.
+
+ Types of Inheritance :
+     1. Single Inheritance  
+     2. Multi-level Inheritance 
+     3. multipule Inheritance
+     4. Hierarchical Inheritance
+     5. Hybrid Inheritance
+
